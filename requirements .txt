@@ -1,5 +1,0 @@
-streamlit 
-requests 
-yfinance
-BeautifulSoup4
-pandas
