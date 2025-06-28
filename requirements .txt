@@ -1,5 +1,5 @@
 streamlit 
 requests 
 yfinance
-BeautifulSoup
+BeautifulSoup4
 pandas
